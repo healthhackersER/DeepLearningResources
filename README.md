@@ -6,7 +6,7 @@ The following information is provided for each resource:
 * Utilized framework - e.g. TensorFlow, PyTorch, FastAI, MXNet
 * Date 
 * Language
-## Prerequesites to understand deep learning
+## Prerequisites to understand deep learning
 Deep learning techniques rely mostly on fundamental linear algebra, a bit of optimization and common machine learning algorithms. Additionally, if you want to apply them in practice, knowing python is invaluable. 
 ### The Math
 #### Linear Algebra

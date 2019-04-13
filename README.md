@@ -5,7 +5,6 @@ All linked resources are freely accessible.
 
 The following information is provided for each resource:
 * **Type** - e.g. **[Lecture]**, **[Book]**, **[Website]**, **[Paper]**, **[Repository]**
-* **Framework** - e.g. **[TensorFlow]**, **[PyTorch]**, **[FastAI]**, **[MXNet]**
 * **Language** - mentioned only if not English
 
 ##### Table of Contents  

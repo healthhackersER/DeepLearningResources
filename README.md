@@ -7,7 +7,7 @@ The following information is provided for each resource:
 * **Type** - e.g. **[Lecture]**, **[Book]**, **[Website]**, **[Paper]**, **[Repository]**
 * **Language** - mentioned only if not English
 
-##### Table of Contents  
+## Table of Contents  
 * [Prerequisites to Understand Deep Learning In-Depth](#prerequisites-to-understand-deep-learning-in-depth)  
 * [Getting Started with Deep Learning](#getting-started-with-deep-learning)     
 * [Introductions to Specific Topics](#introductions-to-specific-topics)

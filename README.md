@@ -15,7 +15,7 @@ The following information is provided for each resource:
 * [Other Resources](#other-resources)
 
 ## Prerequisites to Understand Deep Learning In-Depth
-Deep learning techniques rely mostly on fundamental linear algebra, a bit of optimization and common machine learning algorithms. Additionally, if you want to apply them in practice, knowing python is invaluable. You can skip these if you feel comfortable with these topics or want to dive in. Additionally, many lectures and books provide condensed introductions to them.
+Deep learning techniques rely mostly on fundamental linear algebra, a bit of optimization and common machine learning algorithms. Additionally, if you want to apply them in practice, knowing python is invaluable. You can skip these if you feel comfortable with these topics or want to dive in directly. Additionally, many lectures and books provide condensed introductions to these topics.
 
 ### The Math
 * [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](http://vmls-book.stanford.edu/) **[Book]**
@@ -25,7 +25,7 @@ Deep learning techniques rely mostly on fundamental linear algebra, a bit of opt
 ### Python
 * **[NEEDED]**
 ### Task specific knowledge
-Depending on the task you want to work on, some background on what the data for that task typically looks like might be useful.
+Depending on the task that you want to work on, some background on what the data for that task typically looks like might be useful.
 #### Image data
 * Introduction to RGB data etc **[NEEDED]**
 * Introductions to CT/X-Ray/MRI? **[NEEDED]**
@@ -33,7 +33,7 @@ Depending on the task you want to work on, some background on what the data for 
 * Audio / Time-series introduction? **[NEEDED]**
 
 ## Getting Started with Deep Learning
-By now, there is a multitude of learning resources for deep learning out there. Some highly-recommended ones are provided here, however personal preference might lead you to others.
+By now, there is a multitude of learning resources for deep learning out there. Some highly-recommended ones are provided here, however, personal preference might lead you to others.
 * [Stanford CS230 | Deep Learning](http://cs230.stanford.edu/) **[Lecture]**
 * [Berkeley CS 188 | Introduction to Artificial Intelligence
 Fall 2018](https://inst.eecs.berkeley.edu/~cs188/fa18/) **[Lecture]**
@@ -64,7 +64,7 @@ Fall 2018](https://inst.eecs.berkeley.edu/~cs188/fa18/) **[Lecture]**
 * [MXNet tutorials](https://mxnet.incubator.apache.org/versions/master/tutorials/) **[Website]**
 
 ## Advanced Resources for Specific Topics
-See subfolders
+These will be added in subfolders in the future.
 ## Other Resources
 ### Interesting Blogs / Sites
 * [Machine Learning Mastery](https://machinelearningmastery.com/blog/) **[Blog]**
